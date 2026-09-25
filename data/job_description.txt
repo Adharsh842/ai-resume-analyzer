@@ -1,0 +1,14 @@
+Java Backend Developer
+
+We are looking for a Java Backend Developer with knowledge of Java,
+Spring Boot, REST API, MySQL, Git and Docker.
+
+Requirements:
+
+Strong knowledge of Java.
+Experience with Spring Boot.
+Knowledge of REST APIs.
+Good SQL and MySQL knowledge.
+Knowledge of Git.
+Docker knowledge is preferred.
+Knowledge of React is an added advantage.
